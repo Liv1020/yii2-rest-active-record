@@ -10,13 +10,13 @@ Rest Active Record
 任一运行
 
 ```
-php composer.phar require --prefer-dist pavle/yii2-rest-active "*"
+php composer.phar require --prefer-dist pavle/yii2-rest-active-record "*"
 ```
 
 或者添加
 
 ```
-"pavle/yii2-rest-active": "*"
+"pavle/yii2-rest-active-record": "*"
 ```
 
 到您的 `composer.json` 文件.
